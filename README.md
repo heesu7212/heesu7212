@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<br />🌱 I'm currently learning Python!
+<br />🌱 Currently learning Python!
 <br />🔭 self-learning with resources online
 
 <!--
