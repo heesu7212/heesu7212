@@ -1,5 +1,8 @@
 # Hi there 👋
 
+<br />🌱 I'm currently learning Python!
+<br />🔭 self-learning with resources online
+
 <!--
 **heesu7212/heesu7212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
